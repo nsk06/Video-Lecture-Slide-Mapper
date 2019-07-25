@@ -1,14 +1,10 @@
-﻿DSAA PROJECT REPORT
-- Aayush Goel (20171188)
-- Nonidh Singh (20171203)
-- Himanshu (20171033)
 
 Libraries Imported :-
 
 os, random, cv2, sys, threading, numpy, skimage.measure, PIL, pytesseract, difflib,Levenshtein
 
 How To Run :-
-python3 20171203_20171188_20171033 /path_to_slides_dir/     /path_to_frames_dir/
+python3 code.py /path_to_slides_dir/     /path_to_frames_dir/
 
 Algorithms Used :-
 Normalised Co-relation
